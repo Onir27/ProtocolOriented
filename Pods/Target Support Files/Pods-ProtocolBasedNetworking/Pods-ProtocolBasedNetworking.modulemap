@@ -1,0 +1,6 @@
+framework module Pods_ProtocolBasedNetworking {
+  umbrella header "Pods-ProtocolBasedNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
